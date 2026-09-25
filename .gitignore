@@ -1,0 +1,20 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entorno y secretos
+.env
+venv/
+__pycache__/
+
+# Dependencias
+node_modules/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Logs y temporales
+*.log
+*.tmp

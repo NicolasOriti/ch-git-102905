@@ -16,3 +16,10 @@ git commit -m "Mensaje del commit"
 ```
 
 ## Git Flow
+
+Rama principal: `master`
+Rama de integración: `staging`
+Ramas de desarrollo: `develop`
+Ramas de funcionalidades nuevas: `feature/nombre-de-la-caracteristica`
+Ramas de corrección de errores: `bugfix/nombre-del-bug`
+Ramas de hotfix: `hotfix/nombre-del-hotfix`
